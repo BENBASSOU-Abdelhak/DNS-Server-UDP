@@ -1,0 +1,9 @@
+local and client : 6666 port 
+local and root Server : 7777 port
+local and tld com server : 10000 port
+local and auth com server :20000  port
+local and tld in server : 11000 port
+local and auth in server :20001 port
+
+client,server1,server2,server3,server4  www.abcdef.com
+client, server1,server2,server5,server6 www.amazon.in
